@@ -1,0 +1,68 @@
+openalex_id,journal,jel,field,rank,issn,repec
+S23254222,American Economic Review,TOP,Top 10 overall,1,0002-8282,aea:aecrev
+S203860005,Quarterly Journal of Economics,TOP,Top 10 overall,2,0033-5533,oup:qjecon
+S95323914,Journal of Political Economy,TOP,Top 10 overall,3,0022-3808,ucp:jpolec
+S95464858,Econometrica,TOP,Top 10 overall,4,0012-9682,wly:emetrp
+S88935262,Review of Economic Studies,TOP,Top 10 overall,5,0034-6527,oup:restud
+S180061323,Review of Economics and Statistics,TOP,Top 10 overall,6,0034-6535,tpr:restat
+S165087003,Journal of the European Economic Association,TOP,Top 10 overall,7,1542-4766,oup:jeurec
+S45992627,Economic Journal,TOP,Top 10 overall,8,0013-0133,oup:econjl
+S42893225,American Economic Journal: Applied Economics,TOP,Top 10 overall,9,1945-7782,aea:aejapp
+S170166683,American Economic Journal: Macroeconomics,TOP,Top 10 overall,10,1945-7707,aea:aejmac
+S127708089,Journal of Economic Literature,A,General & teaching,1,0022-0515,aea:jeclit
+S72880728,Journal of Economic Perspectives,A,General & teaching,2,0895-3309,aea:jecper
+S128621090,Journal of Economic Education,A,General & teaching,3,0022-0485,taf:jeduce
+S83145862,History of Political Economy,B,History of thought & methodology,1,0018-2702,hop:hopeec
+S4210168092,Journal of the History of Economic Thought,B,History of thought & methodology,2,1053-8372,cup:jhisec
+S52333995,Journal of Economic Methodology,B,History of thought & methodology,3,1350-178X,taf:jecmet
+S127742747,Journal of Econometrics,C,Quantitative methods,1,0304-4076,eee:econom
+S156003414,Quantitative Economics,C,Quantitative methods,2,1759-7323,wly:quante
+S18095783,Journal of Business & Economic Statistics,C,Quantitative methods,3,0735-0015,taf:jnlbes
+S10997704,Theoretical Economics,D,Microeconomics,1,1555-7561,the:publsh
+S149131268,Journal of Economic Theory,D,Microeconomics,2,0022-0531,eee:jetheo
+S94044085,Games and Economic Behavior,D,Microeconomics,3,0899-8256,eee:gamebe
+S6711363,Journal of Monetary Economics,E,Macro & monetary,1,0304-3932,eee:moneco
+S163499366,Review of Economic Dynamics,E,Macro & monetary,2,1094-2025,red:issued
+S2058785,"Journal of Money, Credit and Banking",E,Macro & monetary,3,0022-2879,wly:jmoncb
+S198098467,Journal of International Economics,F,International,1,0022-1996,eee:inecon
+S21260181,IMF Economic Review,F,International,2,2041-4161,pal:imfecr
+S10747938,Journal of International Money and Finance,F,International,3,0261-5606,eee:jimfin
+S5353659,Journal of Finance,G,Financial,1,0022-1082,bla:jfinan
+S149240962,Journal of Financial Economics,G,Financial,2,0304-405X,eee:jfinec
+S170137484,Review of Financial Studies,G,Financial,3,0893-9454,oup:rfinst
+S199447588,Journal of Public Economics,H,Public,1,0047-2727,eee:pubeco
+S158011328,American Economic Journal: Economic Policy,H,Public,2,1945-7731,aea:aejpol
+S116184629,National Tax Journal,H,Public,3,0028-0283,ntj:journl
+S166621295,Journal of Health Economics,I,"Health, education & welfare",1,0167-6296,eee:jhecon
+S4888523,Economics of Education Review,I,"Health, education & welfare",2,0272-7757,eee:ecoedu
+S145200904,Health Economics,I,"Health, education & welfare",3,1057-9230,wly:hlthec
+S8557221,Journal of Labor Economics,J,Labor & demographic,1,0734-306X,ucp:jlabec
+S62957338,Journal of Human Resources,J,Labor & demographic,2,0022-166X,uwp:jhriss
+S192274990,ILR Review,J,Labor & demographic,3,0019-7939,sae:ilrrev
+S998097505,Journal of Law and Economics,K,Law & economics,1,0022-2186,ucp:jlawec
+S4210168091,"Journal of Law, Economics, and Organization",K,Law & economics,2,1465-7341,oup:jleorg
+S9231424,Journal of Legal Studies,K,Law & economics,3,0047-2530,ucp:jlstud
+S34139249,RAND Journal of Economics,L,Industrial organization,1,0741-6261,bla:randje
+S99067594,Journal of Industrial Economics,L,Industrial organization,2,0022-1821,bla:jindec
+S183232449,International Journal of Industrial Organization,L,Industrial organization,3,0167-7187,eee:indorg
+S33323087,Management Science,M,"Business, marketing & accounting",1,0025-1909,inm:ormnsc
+S163534328,Marketing Science,M,"Business, marketing & accounting",2,0732-2399,inm:ormksc
+S62142384,Journal of Accounting and Economics,M,"Business, marketing & accounting",3,0165-4101,eee:jaecon
+S122073985,Journal of Economic History,N,Economic history,1,0022-0507,cup:jechis
+S145471836,Explorations in Economic History,N,Economic history,2,0014-4983,eee:exehis
+S165492527,Economic History Review,N,Economic history,3,0013-0117,bla:ehsrev
+S101209419,Journal of Development Economics,O,"Development, innovation & growth",1,0304-3878,eee:deveco
+S181171746,Journal of Economic Growth,O,"Development, innovation & growth",2,1381-4338,kap:jecgro
+S2735890421,World Bank Economic Review,O,"Development, innovation & growth",3,0258-6770,oup:wbecrv
+S138645024,Journal of Comparative Economics,P,Economic systems / political economy,1,0147-5967,eee:jcecon
+S4210198644,Economics of Transition and Institutional Change,P,Economic systems / political economy,2,2577-6975,wly:ectrin
+S146268463,Journal of Institutional Economics,P,Economic systems / political economy,3,1744-1374,cup:jinsec
+S200872515,Journal of Environmental Economics and Management,Q,"Agricultural, environmental & resource",1,0095-0696,eee:jeeman
+S2735550652,Journal of the Association of Environmental and Resource Economists,Q,"Agricultural, environmental & resource",2,2333-5955,ucp:jaerec
+S91754907,American Journal of Agricultural Economics,Q,"Agricultural, environmental & resource",3,0002-9092,wly:ajagec
+S147692640,Journal of Urban Economics,R,"Urban, regional & real estate",1,0094-1190,eee:juecon
+S107631327,Regional Science and Urban Economics,R,"Urban, regional & real estate",2,0166-0462,eee:regeco
+S46039370,Journal of Economic Geography,R,"Urban, regional & real estate",3,1468-2702,oup:jecgeo
+S49327401,Journal of Sports Economics,Z,Other special topics,1,1527-0025,sae:jospec
+S31225034,Journal of Cultural Economics,Z,Other special topics,2,0885-2545,kap:jculte
+S201197719,Tourism Economics,Z,Other special topics,3,1354-8166,sae:toueco
