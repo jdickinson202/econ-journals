@@ -41,7 +41,7 @@ If a program reads it every day, keep your last good copy to fall back on, in ca
 To get recent articles from [OpenAlex](https://openalex.org), put the IDs in a filter, separated by `|`:
 
 ```
-https://api.openalex.org/works?filter=primary_location.source.id:S23254222|S203860005,type:article,from_publication_date:2026-11-01&sort=publication_date:desc
+https://api.openalex.org/works?filter=primary_location.source.id:S23254222|S203860005,type:article,from_publication_date:2026-01-01&sort=publication_date:desc
 ```
 
 To see a journal on [IDEAS](https://ideas.repec.org), replace the colon in its RePEc handle with a slash: `aea:aecrev` is at `https://ideas.repec.org/s/aea/aecrev.html`. Article pages there often have JEL codes, which OpenAlex doesn't have.
