@@ -56,7 +56,7 @@ To see a journal on [IDEAS](https://ideas.repec.org), replace the colon in its R
 | `field` | That field's name, shortened. |
 | `rank` | Its position in that field, starting at 1. |
 | `issn` | Its linking ISSN (ISSN-L), from OpenAlex. |
-| `repec` | Its RePEc handle, such as `aea:aecrev`. |
+| `repec` | Its RePEc handle, such as `aea:aecrev`, from [RePEc](http://repec.org). |
 
 Each journal appears once. `jel` says where a journal is listed, not what each of its articles is about: use an article's own JEL codes for that, where it has them.
 
@@ -74,4 +74,10 @@ python check_journals.py
 
 ## Licence
 
-[CC0 1.0](LICENSE): use it for anything, with no need to ask or give credit.
+[CC BY-SA 4.0](LICENSE). You can use, change and share the list, including commercially. If you share it or a changed version of it, credit it and use this same licence for your version. Using the list to look up articles, without sharing the list itself, asks nothing of you.
+
+To credit it: *Economics journals* by jdickinson202, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), https://github.com/jdickinson202/econ-journals
+
+The licence covers this list, not what you look up with it: OpenAlex and [RePEc](https://ideas.repec.org/getdata.html) have their own terms.
+
+Versions up to commit `45bb4c0` were released under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
